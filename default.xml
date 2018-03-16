@@ -10,7 +10,7 @@
   <default revision="morty" sync-j="4"/>
   
   <project name="96boards/meta-96boards" path="layers/meta-96boards" remote="github"/>
-  <project name="akuster/meta-odroid" path="layers/meta-odroid" remote="github"/>
+  <project name="akuster/meta-odroid" path="layers/meta-odroid" remote="github" revision="master"/>
   <project name="96boards/meta-rpb" path="layers/meta-rpb" remote="github"/>
   <project name="cpriouzeau/meta-st-cannes2" path="layers/meta-st-cannes2" remote="github"/>
   <project name="git/meta-intel" path="layers/meta-intel" remote="yocto"/>
